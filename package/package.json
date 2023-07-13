@@ -1,0 +1,22 @@
+{
+  "name": "@jeremy-jaemin/test-npm",
+  "version": "1.0.1",
+  "description": "test for npm publish",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremy-jaemin/test-npm.git"
+  },
+  "author": "jeremy-jaemin <kjm07252gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremy-jaemin/test-npm/issues"
+  },
+  "homepage": "https://github.com/jeremy-jaemin/test-npm#readme"
+}
